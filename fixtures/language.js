@@ -1,0 +1,46 @@
+module.exports = {
+    c:{
+        name:"C",
+        languageRef:""
+    },
+    c_plus_plus:{
+        name:"C++",
+        languageRef:""
+    },
+    cuda:{
+        name:"CUDA",
+        languageRef:""
+    },
+    javascript:{
+        name:"JavaScript",
+        languageRef:""
+    },
+    other_frameworks:{
+        name:"Other Frameworks",
+        languageRef:""
+    },
+    python:{
+        name:"Python",
+        languageRef:""
+    },
+    r:{
+        name:"R",
+        languageRef:""
+    },
+    tensor_cart:{
+        name:"Tensor Cart",
+        languageRef:""
+    },
+    tensorFlow:{
+        name:"Tensorflow",
+        languageRef:""
+    },
+    keras:{
+        name:"keras",
+        languageRef:""
+    },
+    perl:{
+        name:"Perl",
+        languageRef:""
+    }
+}

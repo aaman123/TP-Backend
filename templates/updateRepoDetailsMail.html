@@ -1,0 +1,14 @@
+<h1>Hey, ${userDetails.userName || userDetails.firstName || userDetails.lastName}! <p>You recently updated details for ${repoDetails.title} </p></h1>
+        <p>Updated Details for ${repoDetails.title}</p>
+        <ul>
+            <li>Description : ${repoDetails.description}</li>
+            <li>Price : ${repoDetails.price}</li>
+            <li>Input File Type : ${repoDetails.inputType}</li>
+            <li>Output File Type : ${repoDetails.outputType}</li></ul>
+        <p>Current Metrics for your Repo</p>
+        <ul>
+            <li>Acceptance Status: ${repoDetails.status}</li>
+            <li>Reputation : ${repoDetails.reputationScore}</li>
+            <li>Avg. Ratings : ${repoDetails.avgRatings}</li>
+        </ul>
+        <footer>Copyright © 2021 TensorPlace. All Rights Reserved</footer>

@@ -1,0 +1,10 @@
+{
+  "Connection_file": "ibpConnection_Org2.json",
+  "AppAdmin": "admin",
+  "AppAdminSecret":"adminpw",
+  "AdmincaName":"http://localhost:17050",
+  "AdminorgMSPID":"Org2msp",
+  "channel_name":"mychannel",
+  "smart_contract_name":"Tensorplace",
+  "gatewayDiscovery": { "enabled": true, "asLocalhost": true }
+}
